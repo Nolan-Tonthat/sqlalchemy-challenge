@@ -72,7 +72,7 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 * Use the Flask jsonify function to convert your API data to a valid JSON response object.
 
-##Student Thoughts
+## Student Thoughts
 I really had trouble trying to format the api for `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`.  I did not know how to automate the user input so that the url does not break without a specific format.  Instead, I put a note as a disclaimer for those using the api.
 
 
